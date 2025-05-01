@@ -11,7 +11,7 @@ manage Unifi  controllers
 
 =head1 STATUS
 
-Developed and tested on Unifi network version 9.1.120.
+Developed and tested on Unifi network version 9.1.120. Uses newly introduced Unifi Network API to authorize clients.
 
 =head1 BUGS AND LIMITATIONS
 
